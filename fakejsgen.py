@@ -5,7 +5,7 @@ functions = [
 "random();",
 "getDate();",
 'concat("secret","algo");'
-]
+]#add More functions here
 
 def gen_code(lines):
     for i in range(int(lines)):
